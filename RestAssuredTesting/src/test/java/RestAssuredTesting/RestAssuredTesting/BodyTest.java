@@ -12,7 +12,7 @@ import io.restassured.specification.RequestSpecification;
 import junit.framework.Assert;
 
 
-//test 2
+//test 3
 public class BodyTest {
 
 	@Test
