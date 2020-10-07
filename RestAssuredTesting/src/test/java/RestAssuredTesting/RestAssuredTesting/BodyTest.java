@@ -17,7 +17,7 @@ public class BodyTest {
 
 	@Test
 	public void bodyTest()
-	{
+	{ 
 		
 		
 		//define endpoint
